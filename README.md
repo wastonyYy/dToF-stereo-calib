@@ -1,5 +1,3 @@
-# dToF-stereo-calib
-
 # Marker-Based Multi-Sensor Calibration
 
 This repository will contain the official implementation, calibration datasets, and CAD models for the paper:
